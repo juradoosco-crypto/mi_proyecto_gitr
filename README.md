@@ -2,3 +2,6 @@
 ## Ejercicio de ** Entornos de Desarrollo **
 ---
 Creado por Aitor
+---
+
+- index.html: Página principal.
