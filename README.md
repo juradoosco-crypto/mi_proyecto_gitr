@@ -5,4 +5,5 @@ Creado por Aitor
 ---
 
 - index.html: Página principal.
+CAMBIADO EN DESARROLLO
 CAMBIADO POR EL MASTER
