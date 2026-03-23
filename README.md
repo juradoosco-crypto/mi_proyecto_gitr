@@ -5,5 +5,5 @@ Creado por Aitor
 ---
 
 - index.html: Página principal.
-CAMBIADO EN DESARROLLO
+CAMBIADO EN DESARROLLO EN GIBHUT
 CAMBIADO POR EL MASTER
